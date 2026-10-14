@@ -1,4 +1,4 @@
-# Banh-Mi-Social-Network-Demo
+# Website Banh-Mi-Social-Network-Demo
 # MongoDB + NestJs + ReactJs + Vite
 # Demo link: https://banh-mi-web.vercel.app/
 <img width="1906" height="867" alt="image" src="https://github.com/user-attachments/assets/3650f3e0-981a-4e47-83b9-6caa5a1dadf6" />
